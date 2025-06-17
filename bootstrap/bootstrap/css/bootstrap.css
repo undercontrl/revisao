@@ -7453,11 +7453,23 @@ textarea.form-control-lg {
 }
 
 .start-0 {
-  left: 0 !important;
+  left: 0% !important;
+}
+
+.start-10 {
+  left: 10% !important;
 }
 
 .start-50 {
   left: 50% !important;
+}
+
+.start-60 {
+  left: 60% !important;
+}
+
+.start-90 {
+  left: 90% !important;
 }
 
 .start-100 {
